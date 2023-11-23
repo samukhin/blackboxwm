@@ -205,8 +205,8 @@ Window.Button.Pressed.borderWidth: 4
 Window.Button.Pressed.borderColor: #EEEEEE
 
 !focus and unfocus title elements
-Window.Frame.Focus.BorderColor: #5F6368
-Window.Frame.UnFocus.BorderColor: #B3B6BA
+Window.Frame.Focus.BorderColor: #fafafa
+Window.Frame.UnFocus.BorderColor: #fafafa
 
 Window.Button.Focus.ForegroundColor: #5F6368
 Window.Button.Unfocus.ForegroundColor: #B3B6BA
